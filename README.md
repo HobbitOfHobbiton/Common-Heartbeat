@@ -4,6 +4,8 @@ https://survival.art.pl/en/wspolne-bicie-serca/
 
 https://survival.art.pl/en/edition/survival-24/nagroda-publicznosci/
 
+![alt text](https://survival.art.pl/wp-content/uploads/2026/08/33-anna-underowicz-wspolne-bicie-serca-common-heartbeat-fot.-m.-kujda17-1600x1066.jpg)
+
 An art installation, transcribing heartbeat into drum hit
 ESP32 drives a NEMA17 stepper as an automated drummer that
 strikes a large cajón. A second ESP reads a heartbeat sensor and sends a trigger over
@@ -120,4 +122,3 @@ serial, no transmit) so you can verify heartbeat detection before pairing.
 
 - **TMCStepper** (`teemuatlut/TMCStepper@^0.7.3`) — TMC2209 UART configuration.
 - **AccelStepper** (`waspinator/AccelStepper@^1.64`) — STEP/DIR motion with accel profiles.
-- **Simple FOC** (`askuric/Simple FOC@^2.4.0`) — present for future closed-loop experiments.
